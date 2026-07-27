@@ -1,8 +1,8 @@
 # 002. Find Minimum Element in an Array
 
-**Topic:** Arrays
-**Difficulty:** Easy
-**Language:** C
+**Topic:** Arrays  
+**Difficulty:** Easy  
+**Language:** C  
 **Source:** Custom Practice
 
 ---
